@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @elishkaku.
+- 👋 Hi, I’m @Elishka.
 - 👀 I’m interested in GitHub Marketplace, GitHub Sponsors, GitHub Skills.
